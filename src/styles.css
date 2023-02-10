@@ -1,0 +1,65 @@
+body {
+  background-color: #fdfcfb;
+}
+.card {
+  display: block;
+  margin: 25px auto;
+  background-color: #fff1eb;
+  max-width: 30rem;
+  max-height: 45rem;
+}
+.form-position {
+  position: relative;
+  left: 191px;
+}
+.city {
+  position: relative;
+  top: -58px;
+  right: -11px;
+}
+
+.emoji-days {
+  position: relative;
+  top: -5px;
+}
+
+.temp-weather {
+  font-size: 80px;
+}
+
+.weather {
+  position: relative;
+  right: -91px;
+  top: -80px;
+}
+.grades {
+  position: relative;
+  right: -265px;
+  top: -125px;
+}
+.day {
+  position: relative;
+  top: -82px;
+}
+.high-temp {
+  color: #ee9ca7;
+  position: relative;
+  top: -82px;
+}
+.low-temp {
+  color: #ee9ca7;
+  position: relative;
+  top: -101px;
+}
+.temp-days {
+  text-align: center;
+}
+
+.emoji-days,
+.week-days {
+  text-align: center;
+}
+.footer {
+  font-size: 10px;
+  text-align: center;
+}
